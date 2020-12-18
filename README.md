@@ -1,6 +1,6 @@
 <p align='right'> 
   <img src="https://i.ibb.co/py1xL60/nagi.png" height='150' alt="NAGI" title="NAGI" />
-  <h3 align='right'><i><b>- (na-gi  な.ぐ) meaning: calm, calm  waves</i></b></h3>
+  <h3 align='right'><i>- (na-gi  な.ぐ) meaning: calm, calm  waves</i></h3>
 </p>
 <h1>Hello 👋</h1>
 
