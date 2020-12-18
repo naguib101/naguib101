@@ -1,3 +1,5 @@
+![Ninja](https://s8.gifyu.com/images/Hero.gif)
+
 ### Hi there 👋
 
 <!--
