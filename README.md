@@ -37,10 +37,13 @@
 <br/>
 <br/>
 <p>
-  - 💻 Developer
+  💻 Developer
 </p>
 <p>
-  - ❇️ Pixel Lover
+  ❇️ Pixel Lover
+</p>
+<p>
+  🌎 Code Traveler
 </p>
 
 
